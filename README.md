@@ -62,7 +62,11 @@ An interactive UI built with **Gradio** that features:
 <img width="1218" height="407" alt="image" src="https://github.com/user-attachments/assets/36c132ad-f4b5-4adb-a978-d94e8830ae6a" />
 "Mission Control" Dashboard (Interactive UI)
 <img width="958" height="478" alt="image" src="https://github.com/user-attachments/assets/6d43ead6-9d24-4bf1-a64c-095d3a0f432a" />
-LANDER VISION SYSTEM : 
+ Result: [Lander vision system]
+![image](https://github.com/user-attachments/assets/a82ab45c-e435-4779-a2f0-11dc0b12c48c)
+Safe Radius: 78.38 pixels
+
+
 
 🔮 Future Improvements
 Fuel Constraint Logic: Integrate a module to automatically widen acceptable landing radiuses as fuel decreases.
